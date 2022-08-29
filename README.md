@@ -23,6 +23,8 @@ My profile: https://leetcode.com/QuantumFluxx/
   
 * [001. Two Sum](https://github.com/QuantumFluxx/LeetCode_solutions/blob/main/Easy/001.%20Two%20Sum.py)
 * [009. Palindrome Number](https://github.com/QuantumFluxx/LeetCode_solutions/blob/main/Easy/009.%20Palindrome%20Number.py) 
+* [013. Roman to Integer](https://github.com/QuantumFluxx/LeetCode_solutions/blob/main/Easy/013.%20Roman%20to%20Integer.py)
+* [014. Longest Common Prefix](https://github.com/QuantumFluxx/LeetCode_solutions/blob/main/Easy/014.%20Longest%20Common%20Prefix.py)
 * [026. Remove Duplicates from Sorted Array](https://github.com/QuantumFluxx/LeetCode_solutions/blob/main/Easy/026.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
 * [069. Sqrt(x)](https://github.com/QuantumFluxx/LeetCode_solutions/blob/main/Easy/069.%20Sqrt(x).py)
 * [083. Remove Duplicates from Sorted List](https://github.com/QuantumFluxx/LeetCode_solutions/blob/main/Easy/083.%20Remove%20Duplicates%20from%20Sorted%20List.py)
